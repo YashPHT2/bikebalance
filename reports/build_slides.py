@@ -268,7 +268,7 @@ team = pd.DataFrame([
 ], columns=["Member", "ID", "Lead responsibility"])
 table(s, team, 0.6, 1.6, 12.1, 2.6, 16, widths=[3.2, 1.6, 7.3])
 text(s, 0.6, 4.8, 12.1, 1.2, "Thank you - questions?", 36, True, NAVY, PP_ALIGN.CENTER)
-text(s, 0.6, 5.9, 12.1, 0.6, "Code: public GitHub repository  |  Data: huggingface.co/datasets/Krupa1420/la-metro-bikeshare-2024",
+text(s, 0.6, 5.9, 12.1, 0.6, "Code: github.com/YashPHT2/bikebalance  |  Data: huggingface.co/datasets/Krupa1420/la-metro-bikeshare-2024",
      13, False, GREY, PP_ALIGN.CENTER)
 
 prs.save(OUT)

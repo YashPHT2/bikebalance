@@ -27,7 +27,7 @@ OUT.mkdir(exist_ok=True)
 TITLE = "BikeBalance: Smart Bicycle Redistribution System"
 MEMBERS = [("Sahil Yadav", "240624"), ("Shorya", "240643"),
            ("Yash Kumar Sharma", "240698"), ("Tejas Duggal", "240672")]
-REPO_URL = "https://github.com/<your-org>/bikebalance"  # TODO: replace after pushing
+REPO_URL = "https://github.com/YashPHT2/bikebalance"
 
 # ------------------------------------------------------------------ data
 R = {

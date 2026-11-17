@@ -36,6 +36,8 @@ modal_app.py       hosted demo on Modal
 run_pipeline.py    runs the full pipeline end to end
 ```
 
+Repository: https://github.com/YashPHT2/bikebalance
+
 ## Reproduce
 
 ```bash
