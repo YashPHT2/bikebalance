@@ -11,3 +11,6 @@ mlruns/
 # course hand-outs
 01_Print_One_Page_Summary.pdf
 ADS_Project_Report_Template.pdf
+
+# local run logs
+reports/modal_deploy_log.txt
