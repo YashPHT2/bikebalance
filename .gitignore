@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+data/raw/
+data/processed/*.parquet
+models/*.joblib
+mlflow.db
+mlruns/
+.cache/
+.pytest_cache/
+
+# course hand-outs
+01_Print_One_Page_Summary.pdf
+ADS_Project_Report_Template.pdf

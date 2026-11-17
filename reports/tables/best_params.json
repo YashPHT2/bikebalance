@@ -1,0 +1,41 @@
+{
+  "S": {
+    "num_leaves": 63,
+    "learning_rate": 0.05,
+    "min_child_samples": 100,
+    "objective": "regression",
+    "n_estimators": 218
+  },
+  "SC": {
+    "num_leaves": 127,
+    "learning_rate": 0.05,
+    "min_child_samples": 200,
+    "objective": "poisson",
+    "n_estimators": 650
+  },
+  "SCW": {
+    "num_leaves": 127,
+    "learning_rate": 0.05,
+    "min_child_samples": 200,
+    "objective": "poisson",
+    "n_estimators": 348
+  },
+  "SCL": {
+    "num_leaves": 127,
+    "learning_rate": 0.05,
+    "min_child_samples": 200,
+    "objective": "poisson",
+    "n_estimators": 648
+  },
+  "SCWL": {
+    "num_leaves": 127,
+    "learning_rate": 0.05,
+    "min_child_samples": 200,
+    "objective": "poisson",
+    "n_estimators": 486
+  },
+  "RF": {
+    "max_depth": 14,
+    "min_samples_leaf": 20
+  }
+}

@@ -1,0 +1,111 @@
+﻿python : 2026/11/17 17:17:54 INFO mlflow.agent.hint: Load the `mlflow-trace-instrumentation` skill at C:\Users\Yash\App
+Data\Roaming\Python\Python310\site-packages\mlflow\assistant\skills\mlflow-trace-instrumentation\SKILL.md before 
+writing any tracing code; it ships with this MLflow install. Set MLFLOW_DISABLE_AGENT_HINT=1 to silence this.
+At line:1 char:317
++ ... F:\ads\src; python -m bikebalance.forecasting *> F:\ads\reports\forec ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026/11/17 17:1...o silence this.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+2026/11/17 17:17:55 INFO mlflow.store.db.utils: Creating initial MLflow database tables...
+2026/11/17 17:17:55 INFO mlflow.store.db.utils: Updating database tables
+2026/11/17 17:18:00 INFO mlflow.tracking.fluent: Experiment with name 'BikeBalance-forecasting' does not exist. 
+Creating a new experiment.
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+C:\Users\Yash\AppData\Roaming\Python\Python310\site-packages\lightgbm\sklearn.py:1106: LGBMDeprecationWarning: The 
+argument 'eval_set' is deprecated, use 'eval_X' and 'eval_y' instead.
+  eval_set = _validate_eval_set_Xy(eval_set=eval_set, eval_X=eval_X, eval_y=eval_y)
+[    43s] LGBM S: val MAE 0.4185 test MAE 0.3673
+[   162s] LGBM SC: val MAE 0.3461 test MAE 0.3124
+[   251s] LGBM SCW: val MAE 0.3515 test MAE 0.3072
+[   415s] LGBM SCL: val MAE 0.3364 test MAE 0.2776
+[   539s] LGBM SCWL: val MAE 0.3394 test MAE 0.2809
+[   541s] LR done
+[   596s] RF done
+done in 597s
+         model features split       MAE      RMSE      Bias        R2
+0   HA_station        -   val  0.418509  0.827026 -0.035023  0.145768
+1   HA_station        -  test  0.366798  0.657591  0.056405  0.097206
+2       HA_shw        -   val  0.346269  0.722351 -0.035211  0.348320
+3       HA_shw        -  test  0.309779  0.606546  0.056333  0.231924
+4         LGBM        S   val  0.418507  0.826953 -0.034912  0.145918
+5         LGBM        S  test  0.367269  0.657796  0.056970  0.096643
+6         LGBM       SC   val  0.346070  0.718519 -0.035890  0.355215
+7         LGBM       SC  test  0.312367  0.615513  0.059179  0.209046
+8         LGBM      SCW   val  0.351473  0.719498 -0.027395  0.353457
+9         LGBM      SCW  test  0.307220  0.588590  0.053629  0.276726
+10        LGBM      SCL   val  0.336412  0.675397 -0.009855  0.430287
+11        LGBM      SCL  test  0.277640  0.553130  0.022332  0.361249
+12        LGBM     SCWL   val  0.339369  0.678316 -0.008253  0.425352
+13        LGBM     SCWL  test  0.280902  0.554493  0.028415  0.358099
+14          LR     SCWL   val  0.357198  0.705356  0.003519  0.378624
+15          LR     SCWL  test  0.287092  0.572941  0.022877  0.314675
+16          RF     SCWL   val  0.344748  0.684573 -0.003749  0.414701
+17          RF     SCWL  test  0.284198  0.559707  0.026103  0.345968
+  hypothesis split  mae_base   mae_new  mae_reduction_pct  ci95_low  ci95_high  days_improved    wilcoxon_p
+0         H1   val  0.418507  0.346070          17.308553  0.070289   0.074584             61  5.555824e-12
+1         H1  test  0.367269  0.312367          14.948615  0.050356   0.059297             59  6.777635e-12
+2         H2   val  0.336412  0.339369          -0.878907 -0.004188  -0.001933             12  9.999995e-01
+3         H2  test  0.277640  0.280902          -1.174914 -0.004656  -0.001810             16  9.999725e-01
+4         H4   val  0.351473  0.339369           3.443791  0.010646   0.014089             61  5.555824e-12
+5         H4  test  0.307220  0.280902           8.566430  0.023478   0.029468             61  5.555824e-12
+6        H5a   val  0.357198  0.344748           3.485324  0.011049   0.013720             60  5.839341e-12
+7        H5a  test  0.287092  0.284198           1.008138  0.000881   0.004866             37  4.328575e-03
+8        H5b   val  0.357198  0.339369           4.991462  0.016069   0.019486             61  5.555824e-12
+9        H5b  test  0.287092  0.280902           2.156221  0.003680   0.008759             45  8.308874e-06

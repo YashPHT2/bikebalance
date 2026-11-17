@@ -1,0 +1,253 @@
+station_id,station_name,region,lat,lon,recovered,region_missing,coords_missing
+3005,7th & Flower,DTLA,34.0485,-118.258537,0,0,0
+3006,Olive & 8th,DTLA,34.04554,-118.256668,0,0,0
+3007,5th & Grand,DTLA,34.05048,-118.254593,0,0,0
+3008,Figueroa & 9th,DTLA,34.046612,-118.262733,0,0,0
+3010,11th & Maple,DTLA,34.037048,-118.254868,0,0,0
+3011,Figueroa & Pico,DTLA,34.041119,-118.26796,0,0,0
+3014,Union Station West Portal,DTLA,34.05661,-118.237213,0,0,0
+3016,Los Angeles & Temple,DTLA,34.052898,-118.241562,0,0,0
+3018,Grand & Olympic,DTLA,34.043732,-118.260139,0,0,0
+3019,12th & Hill,DTLA,34.038609,-118.260857,0,0,0
+3020,Hill & Washington,DTLA,34.031052,-118.26709,0,0,0
+3022,3rd & Santa Fe,DTLA,34.04607,-118.233093,0,0,0
+3024,Hope & 1st,DTLA,34.05772,-118.24897,0,0,0
+3025,Grand & Washington,DTLA,34.03286,-118.268082,0,0,0
+3026,Figueroa & Cesar Chavez,DTLA,34.063179,-118.24588,0,0,0
+3027,Spring & 3rd,DTLA,34.04998,-118.247162,0,0,0
+3030,Main & 1st,DTLA,34.051941,-118.24353,0,0,0
+3032,Hope & 6th,DTLA,34.049889,-118.255882,0,0,0
+3033,Main & 9th,DTLA,34.040989,-118.255798,0,0,0
+3034,Hope & 11th,DTLA,34.042061,-118.263382,0,0,0
+3035,Figueroa & 8th,DTLA,34.048401,-118.260948,0,0,0
+3036,Willow St & Mateo St,DTLA,34.039188,-118.232529,0,0,0
+3037,Imperial & 7th,DTLA,34.034801,-118.231277,0,0,0
+3040,Wilshire & Witmer,DTLA,34.05357,-118.266357,0,0,0
+3042,1st & Central,DTLA,34.049301,-118.238808,0,0,0
+3045,18th & San Pedro,DTLA,34.028511,-118.256668,0,0,0
+3046,2nd & Hill,DTLA,34.052872,-118.24749,0,0,0
+3047,Pico & Flower,DTLA,34.039982,-118.266403,0,0,0
+3048,5th & Hewitt,DTLA,34.041691,-118.235352,0,0,0
+3049,2nd & Figueroa,DTLA,34.056969,-118.253593,0,0,0
+3052,7th & Bixel,DTLA,34.051102,-118.264557,0,0,0
+3054,Factory Place & Alameda,DTLA,34.039219,-118.236488,0,0,0
+3056,Grand & 14th,DTLA,34.03746,-118.265381,0,0,0
+3058,Industrial St & Mateo St,DTLA,34.035801,-118.23317,0,0,0
+3062,3rd & San Pedro,DTLA,34.047749,-118.243172,0,0,0
+3063,Pershing Square,DTLA,34.048038,-118.253738,0,0,0
+3064,Grand & 8th,DTLA,34.046131,-118.257591,0,0,0
+3065,New High & Ord,DTLA,34.060558,-118.238327,0,0,0
+3066,Spring & College,DTLA,34.063389,-118.23616,0,0,0
+3068,Grand & 3rd,DTLA,34.0532,-118.250954,0,0,0
+3069,Broadway & 3rd,DTLA,34.05088,-118.248253,0,0,0
+3074,Hope & Olympic,DTLA,34.04417,-118.261169,0,0,0
+3075,Broadway & 9th,DTLA,34.04211,-118.256187,0,0,0
+3076,9th & Los Angeles,DTLA,34.0406,-118.253838,0,0,0
+3077,8th & Wall,DTLA,34.039871,-118.250038,0,0,0
+3078,Hill & College,DTLA,34.064281,-118.238937,0,0,0
+3079,Temple & Vignes,DTLA,34.05014,-118.233192,0,0,0
+3081,Stanford & 12th,DTLA,34.031891,-118.250183,0,0,0
+3082,Traction & Rose,DTLA,34.04652,-118.237411,0,0,0
+4202,Abbot Kinney & Cadiz,Westside,33.991161,-118.468292,0,0,0
+4204,Washington & Abbot Kinney,Westside,33.988419,-118.45163,0,0,0
+4205,Venice & Lincoln,Westside,33.993771,-118.453667,0,0,0
+4206,California & Lincoln,Westside,33.998341,-118.461014,0,0,0
+4207,Rose & 7th,Westside,34.000881,-118.46891,0,0,0
+4208,Rose & Rennie,Westside,33.99868,-118.472977,0,0,0
+4209,Rose & Main,Westside,33.996239,-118.477448,0,0,0
+4210,Ocean Front Walk & North Venice,Westside,33.984341,-118.47155,0,0,0
+4211,Pacific & North Venice,Westside,33.984928,-118.469963,0,0,0
+4212,Windward & Main,Westside,33.988129,-118.471741,0,0,0
+4213,7th & Westminster,Westside,33.995369,-118.464798,0,0,0
+4214,Ocean Front Walk & Navy,Westside,33.99556,-118.481552,0,0,0
+4215,Downtown Santa Monica E Line Station,Westside,34.014309,-118.491341,0,0,0
+4216,17th St / SMC E Line Station,Westside,34.023392,-118.479637,0,0,0
+4217,Broadway & 11th,DTLA,34.04031,-118.25827,0,0,0
+4220,Park & Echo Park,DTLA,34.074829,-118.258728,0,0,0
+4227,Grand / LATTC,DTLA,34.0298,-118.270309,0,0,0
+4245,University & Hoover,DTLA,34.02404,-118.283409,0,0,0
+4246,32nd & Figueroa,DTLA,34.023708,-118.279167,0,0,0
+4247,25th & Vermont,DTLA,34.033642,-118.291313,0,0,0
+4248,29th & Ellendale,DTLA,34.028351,-118.288673,0,0,0
+4249,Figueroa & McCarthy Way,DTLA,34.020302,-118.281181,0,0,0
+4250,Severance & Adams,DTLA,34.03017,-118.280952,0,0,0
+4254,Hoover & 29th,DTLA,34.028679,-118.284111,0,0,0
+4255,Seabluff & Runway,Westside,33.97366,-118.422859,0,0,0
+4266,28th & Figueroa,DTLA,34.026291,-118.277687,0,0,0
+4267,28th & University,DTLA,34.027618,-118.280678,0,0,0
+4273,Hoover & 32nd,DTLA,34.02586,-118.284103,0,0,0
+4275,Expo Park/LAFC,DTLA,34.01252,-118.285896,0,0,0
+4293,Westlake & 3rd,DTLA,34.062279,-118.271523,0,0,0
+4300,Union & Olympic,DTLA,34.04887,-118.2743,0,0,0
+4301,Maubert & Vermont,DTLA,34.099049,-118.291496,0,0,0
+4302,Vermont Pl & Vermont,DTLA,34.092491,-118.291443,0,0,0
+4303,Sunset & Virgil,DTLA,34.098011,-118.287071,0,0,0
+4304,Shatto Pl & Wilshire,DTLA,34.06258,-118.290092,0,0,0
+4306,8th & Vermont,DTLA,34.057652,-118.292183,0,0,0
+4311,7th & Berendo,DTLA,34.059689,-118.294662,0,0,0
+4312,4th & Vermont,DTLA,34.06699,-118.290878,0,0,0
+4313,Westlake/Macarthur Park Station,DTLA,34.056808,-118.275002,0,0,0
+4314,7th & Park View,DTLA,34.057709,-118.279762,0,0,0
+4315,Union & 7th,DTLA,34.054031,-118.27092,0,0,0
+4387,Row DTLA,DTLA,34.03352,-118.241837,0,0,0
+4390,Kenmore & 3rd,DTLA,34.069271,-118.296593,0,0,0
+4401,Vermont & Beverly,DTLA,34.075611,-118.291862,0,0,0
+4404,Albany & Olympic,DTLA,34.04813,-118.271027,0,0,0
+4405,Berendo & Olympic,DTLA,34.051899,-118.293678,0,0,0
+4406,Normandie & Hollywood,DTLA,34.101891,-118.300613,0,0,0
+4410,Kenmore & 6th,DTLA,34.063351,-118.296799,0,0,0
+4436,Vermont & Franklin,DTLA,34.105782,-118.291939,0,0,0
+4437,Franklin & Hillhurst,DTLA,34.105358,-118.28727,0,0,0
+4439,Santa Monica & Virgil,DTLA,34.090969,-118.286247,0,0,0
+4440,Wilshire & Alexandria,DTLA,34.061661,-118.298241,0,0,0
+4441,University & 30th,DTLA,34.026619,-118.281807,0,0,0
+4442,Normandie & Sunset,DTLA,34.098,-118.300468,0,0,0
+4443,Figueroa & Jefferson,DTLA,34.022091,-118.279793,0,0,0
+4444,Wilshire & Hobart,DTLA,34.061619,-118.305573,0,0,0
+4445,Sunset & Douglas,DTLA,34.073639,-118.251572,0,0,0
+4446,James M. Wood & Alvarado,DTLA,34.05323,-118.278419,0,0,0
+4447,Rampart & Wilshire,DTLA,34.0616,-118.28199,0,0,0
+4448,23rd St & Flower,DTLA,34.03027,-118.273193,0,0,0
+4449,12th & Valencia,DTLA,34.04557,-118.274193,0,0,0
+4450,Virgil & 6th,DTLA,34.063492,-118.287163,0,0,0
+4451,Melbourne & Vermont,DTLA,34.10363,-118.291313,0,0,0
+4452,Hillhurst & Kingswell,DTLA,34.102329,-118.28746,0,0,0
+4453,Lucile & Hoover,DTLA,34.082649,-118.284393,0,0,0
+4454,Vermont & Exposition,DTLA,34.017899,-118.291718,0,0,0
+4455,Rowena & Hyperion,DTLA,34.10936,-118.271812,0,0,0
+4456,Ardmore & Olympic,DTLA,34.052429,-118.302017,0,0,0
+4457,Hollywood & Rodney,DTLA,34.100109,-118.289864,0,0,0
+4472,Santa Monica & Sunset,DTLA,34.092602,-118.28093,0,0,0
+4473,Vendome & Beverly,DTLA,34.07159,-118.282288,0,0,0
+4474,Ambrose & Hillhurst,DTLA,34.110031,-118.287163,0,0,0
+4475,San Pedro & Winston,DTLA,34.045181,-118.243248,0,0,0
+4476,Sunset & Silver Lake,DTLA,34.08252,-118.27272,0,0,0
+4477,Yucca & Argyle,DTLA,34.103851,-118.325462,0,0,0
+4479,Ellendale Pl & Adams,DTLA,34.031502,-118.288742,0,0,0
+4482,Wilcox & Fountain,DTLA,34.094372,-118.331009,0,0,0
+4483,Glendale & Silver Lake,DTLA,34.1007,-118.259117,0,0,0
+4486,Vista Hermosa Park,DTLA,34.06126,-118.258598,0,0,0
+4487,Broxton & Weyburn,Westside,34.062111,-118.446922,0,0,0
+4490,Figueroa & 4th,DTLA,34.053551,-118.255836,0,0,0
+4491,Main & Winston,DTLA,34.04744,-118.24794,0,0,0
+4492,Westwood/Rancho Park E Line Station,Westside,34.036869,-118.425499,0,0,0
+4493,Sunset Triangle Plaza,DTLA,34.090279,-118.277191,0,0,0
+4494,Laveta Terrace & Sunset,DTLA,34.075981,-118.256012,0,0,0
+4509,Western & Hollywood,DTLA,34.101639,-118.309174,0,0,0
+4510,Mohawk Bend,DTLA,34.077351,-118.264549,0,0,0
+4511,Union Station East Portal,DTLA,34.056278,-118.231773,0,0,0
+4512,Figueroa & 11th,DTLA,34.043812,-118.264969,0,0,0
+4515,Mississippi & Sawtelle,Westside,34.039742,-118.442268,0,0,0
+4517,Highland & Hollywood,DTLA,34.101959,-118.338852,0,0,0
+4518,Normandie & 8th,DTLA,34.057968,-118.299751,0,0,0
+4521,Inglewood & Ballona,Westside,33.990318,-118.412048,0,0,0
+4523,Western & 3rd,DTLA,34.068748,-118.30928,0,0,0
+4524,Wilshire & Normandie,DTLA,34.06163,-118.301193,0,0,0
+4525,Hawthorn & Orange,DTLA,34.10038,-118.341797,0,0,0
+4526,Franklin & Fuller,DTLA,34.103378,-118.34919,0,0,0
+4527,McCadden & Hollywood,DTLA,34.102001,-118.33741,0,0,0
+4528,Glendon & Kinross,DTLA,34.06097,-118.444366,0,0,0
+4529,Whitley & Hollywood,DTLA,34.10186,-118.33329,0,0,0
+4534,Ivar & Hollywood,DTLA,34.10186,-118.32811,0,0,0
+4536,Venice & Abbot Kinney,Westside,33.989079,-118.462257,0,0,0
+4537,Highland & Sunset,DTLA,34.098228,-118.338821,0,0,0
+4538,5th & Western,DTLA,34.06543,-118.308823,0,0,0
+4540,1st & Utah,DTLA,34.04776,-118.22541,0,0,0
+4543,Toes Beach at Culver Blvd,Westside,33.95718,-118.451248,0,0,0
+4544,Dockweiler Beach at Imperial Hwy,Westside,33.928459,-118.435204,0,0,0
+4545,Vista Del Mar & Culver,Westside,33.95879,-118.44828,0,0,0
+4546,Expo/Bundy E Line Station,Westside,34.031399,-118.453629,0,0,0
+4547,Stanford & Washington,Westside,33.9897,-118.448883,0,0,0
+4548,Durango & Venice,Westside,34.026829,-118.393517,0,0,0
+4549,Barrington & National,Westside,34.022449,-118.438332,0,0,0
+4552,Culver & Centinela,Westside,33.990971,-118.421303,0,0,0
+4553,Venice & Beethoven,Westside,33.99958,-118.44136,0,0,0
+4554,Venice & Colonial,Westside,34.00351,-118.43438,0,0,0
+4555,Venice & Inglewood,Westside,34.005871,-118.429161,0,0,0
+4556,McLaughlin & Venice,Westside,34.009022,-118.425011,0,0,0
+4557,Venice & Sawtelle,Westside,34.011799,-118.419441,0,0,0
+4558,Bagley & Venice,Westside,34.025688,-118.395302,0,0,0
+4561,Sepulveda & Palms,Westside,34.020061,-118.422684,0,0,0
+4562,Sepulveda & National,Westside,34.02697,-118.428207,0,0,0
+4563,Venice & Glendon,Westside,34.017448,-118.409569,0,0,0
+4564,Expo/Sepulveda E Line Station,Westside,34.035351,-118.434143,0,0,0
+4565,Alla & Maxella,Westside,33.989948,-118.434669,0,0,0
+4566,Venice & Hughes,Westside,34.023392,-118.399223,0,0,0
+4567,Venice & Motor,Westside,34.02018,-118.40403,0,0,0
+4568,Palms E Line Station,Westside,34.029121,-118.403168,0,0,0
+4569,Palms & Motor,Westside,34.02655,-118.408463,0,0,0
+4570,Sepulveda & Venice,Westside,34.01376,-118.417801,0,0,0
+4571,Rose & Overland,Westside,34.027649,-118.413559,0,0,0
+4572,National & Motor,Westside,34.02948,-118.410469,0,0,0
+4573,Westwood & National,Westside,34.030472,-118.420982,0,0,0
+4575,Lucerne & Sepulveda,Westside,34.000309,-118.402527,0,0,0
+4576,Motor & Regent,Westside,34.022579,-118.40551,0,0,0
+4577,Inglewood & Braddock,Westside,33.993019,-118.414909,0,0,0
+4578,Main & 8th,DTLA,34.04298,-118.252953,0,0,0
+4579,Alla & Glencoe,Westside,33.984859,-118.431129,0,0,0
+4580,Centinela & Lucile,Westside,33.982922,-118.410927,0,0,0
+4581,Playa Vista Library,Westside,33.970242,-118.426071,0,0,0
+4583,McConnell & Runway,Westside,33.976189,-118.418419,0,0,0
+4584,Fountain & Vine,DTLA,34.094349,-118.326363,0,0,0
+4587,Wiltern,DTLA,34.060791,-118.309067,0,0,0
+4595,Chandler & Colfax,North Hollywood,34.16835,-118.387497,0,0,0
+4596,Chandler & Laurel Canyon,North Hollywood,34.168331,-118.396156,0,0,0
+4597,Magnolia & Clybourn,North Hollywood,34.165218,-118.355148,0,0,0
+4598,North Hollywood Plaza,North Hollywood,34.16552,-118.375153,0,0,0
+4599,Chandler & Cahuenga,North Hollywood,34.168751,-118.36187,0,0,0
+4600,Lankershim & Califa,North Hollywood,34.17765,-118.382309,0,0,0
+4601,Lankershim & Hesby,North Hollywood,34.161709,-118.372818,0,0,0
+4603,Riverside & Cahuenga,North Hollywood,34.152142,-118.361954,0,0,0
+4604,Lankershim & Vineland,North Hollywood,34.158321,-118.370811,0,0,0
+4605,Mariota & Riverside,North Hollywood,34.152,-118.350601,0,0,0
+4606,North Hollywood Station,North Hollywood,34.168629,-118.377068,0,0,0
+4613,Gateway Plaza,Westside,34.069752,-118.445351,0,0,0
+4614,Perloff Hall,Westside,34.07365,-118.439842,0,0,0
+4514,Purdue & Santa Monica,Westside,34.046211,-118.451172,0,0,0
+4627,Argyle & Hollywood,DTLA,34.101849,-118.325142,0,0,0
+4632,Maxella & Glencoe,Westside,33.986671,-118.440948,0,0,0
+4628,7th & Westmoreland,DTLA,34.05978,-118.288544,0,0,0
+4643,Drake Stadium,Westside,34.07262,-118.44944,0,0,0
+4644,Weyburn Terrace,Westside,34.061859,-118.45002,0,0,0
+4645,University Village (Sawtelle Blvd),Westside,34.023411,-118.429008,0,0,0
+4652,Arizona Ave & 16th St,Westside,34.02705,-118.485184,0,0,0
+4660,Venice & Walgrove,Westside,33.997238,-118.446732,0,0,0
+4664,Koreatown Plaza,DTLA,34.055161,-118.30899,0,0,0
+4665,Gateway Plaza,Westside,34.069752,-118.445351,0,0,0
+4672,7th & Broadway,DTLA,34.045021,-118.253189,0,0,0
+4680,Broadway & 8th,DTLA,34.043522,-118.255089,0,0,0
+4682,CicLAvia Meet the Hollywood's - West Hollywood Hub,DTLA,34.08564,-118.38279,0,1,0
+4689,University Village (Sepulveda Blvd),Westside,34.023849,-118.426071,0,0,0
+4690,Vineland & Burbank,North Hollywood,34.172451,-118.370369,0,0,0
+4696,Avalon & Slauson,DTLA,33.98938,-118.264954,0,0,0
+4697,Compton & Slauson,DTLA,33.989498,-118.248001,0,0,0
+4698,Figueroa & Slauson,DTLA,33.989342,-118.282349,0,0,0
+4699,Vermont & Slauson,DTLA,33.9893,-118.291191,0,0,0
+4700,Denker & Slauson,DTLA,33.9893,-118.304199,0,0,0
+4707,Heliotrope & Lily Crest,DTLA,34.087879,-118.294922,0,0,0
+3000,Recovered station 3000,Unknown,,,1,1,1
+3028,Recovered station 3028,DTLA,34.058319,-118.246094,1,1,0
+3031,Recovered station 3031,DTLA,34.044701,-118.252441,1,1,0
+4438,Recovered station 4438,DTLA,34.094929,-118.284561,1,1,0
+4478,Recovered station 4478,DTLA,34.10424,-118.273697,1,1,0
+4480,Recovered station 4480,DTLA,34.05896,-118.250587,1,1,0
+4513,Recovered station 4513,DTLA,34.08371,-118.296021,1,1,0
+4516,Recovered station 4516,DTLA,34.045849,-118.254402,1,1,0
+4539,Recovered station 4539,DTLA,34.101761,-118.33474,1,1,0
+4559,Recovered station 4559,Westside,34.022282,-118.415833,1,1,0
+4560,Recovered station 4560,Westside,34.017368,-118.420601,1,1,0
+4582,Recovered station 4582,Westside,33.980991,-118.414879,1,1,0
+4602,Recovered station 4602,North Hollywood,34.164951,-118.363632,1,1,0
+4623,Recovered station 4623,DTLA,34.017891,-118.308853,1,1,0
+4625,Recovered station 4625,DTLA,34.017891,-118.308853,1,1,0
+4629,Recovered station 4629,DTLA,34.08577,-118.382599,1,1,0
+4667,Recovered station 4667,DTLA,34.083939,-118.361031,1,1,0
+4668,Recovered station 4668,DTLA,34.083939,-118.361031,1,1,0
+4669,Recovered station 4669,DTLA,34.04501,-118.253693,1,1,0
+4670,Recovered station 4670,Westside,34.02874,-118.388931,1,1,0
+4671,Recovered station 4671,Westside,34.028702,-118.388962,1,1,0
+4675,Recovered station 4675,DTLA,33.945961,-118.308952,1,1,0
+4678,Recovered station 4678,DTLA,34.017971,-118.308853,1,1,0
+4684,Recovered station 4684,DTLA,34.071991,-118.222031,1,1,0
+4686,Recovered station 4686,DTLA,34.064991,-118.236809,1,1,0
+4687,Recovered station 4687,DTLA,34.043671,-118.200844,1,1,0

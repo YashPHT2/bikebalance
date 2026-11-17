@@ -1,0 +1,7 @@
+data/raw
+mlflow.db
+mlruns
+.git
+**/__pycache__
+deliverables
+*.pdf

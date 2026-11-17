@@ -1,0 +1,1 @@
+{"peak_hours": [13, 14, 15, 16, 17, 18], "rule": "hours of day with mean training system departures >= 75th percentile"}

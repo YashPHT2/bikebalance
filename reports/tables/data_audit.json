@@ -1,0 +1,67 @@
+{
+  "ssot_version": "v1.0",
+  "raw_trips": 519235,
+  "raw_trip_columns": 14,
+  "raw_stations": [
+    226,
+    5
+  ],
+  "raw_weather": [
+    8784,
+    7
+  ],
+  "duplicate_trip_ids": 0,
+  "unmatched_origin_trips_vs_raw_registry": 10076,
+  "unmatched_destination_trips_vs_raw_registry": 20537,
+  "trips_missing_start_coords": 59,
+  "trips_missing_end_coords": 11074,
+  "weather_duplicate_timestamps": [
+    "2024-11-03 01:00:00"
+  ],
+  "weather_missing_hours": [
+    "2024-03-10 02:00:00"
+  ],
+  "weather_rows_clean": 8784,
+  "weather_timezone_inference": "Duplicate hour on 2024-11-03 01:00 and missing 2024-03-10 02:00 match US DST transitions, so weather is in local time (America/Los_Angeles), same as trips.",
+  "stations_registry_raw": 226,
+  "stations_recovered_from_trips": 26,
+  "stations_recovered_ids": [
+    3000,
+    3028,
+    3031,
+    4438,
+    4478,
+    4480,
+    4513,
+    4516,
+    4539,
+    4559,
+    4560,
+    4582,
+    4602,
+    4623,
+    4625,
+    4629,
+    4667,
+    4668,
+    4669,
+    4670,
+    4671,
+    4675,
+    4678,
+    4684,
+    4686,
+    4687
+  ],
+  "stations_registry_final": 252,
+  "departures_in_panel": 519235,
+  "ssot_rows": 1971843,
+  "ssot_columns": 25,
+  "ssot_stations": 245,
+  "ssot_zero_share": 0.8393675358535136,
+  "rows_by_split": {
+    "train": 1318390,
+    "val": 328478,
+    "test": 324975
+  }
+}

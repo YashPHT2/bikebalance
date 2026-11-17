@@ -1,0 +1,50 @@
+{
+  "daily_mean": 1418.6748633879781,
+  "daily_max": [
+    "2024-10-13",
+    2888
+  ],
+  "daily_min": [
+    "2024-02-05",
+    182
+  ],
+  "kruskal_hour_of_day": {
+    "H": 7604.352602163757,
+    "p": 0.0
+  },
+  "top20_share_train": 0.5303806117577099,
+  "rain_hours_daytime": 115,
+  "dep_dry_vs_rain": [
+    92.09462966660011,
+    25.417391304347827
+  ],
+  "mannwhitney_dry_gt_rain_p": 6.679675729323113e-60,
+  "spearman_temp_dep_daytime": 0.4092258748217863,
+  "target_mean": 0.26332471702868837,
+  "target_var": 0.661710010514843,
+  "zero_share": 0.8393675358535136,
+  "acf_busiest": {
+    "station": 4214,
+    "lag1": 0.6072746504189911,
+    "lag24": 0.5658742227874395,
+    "lag168": 0.5649586527189396
+  },
+  "regions": {
+    "Unknown": 59,
+    "North Hollywood": 5850,
+    "Westside": 207937,
+    "DTLA": 305389
+  },
+  "passholder": {
+    "Monthly Pass": 336807,
+    "Walk-Up": 93155,
+    "Annual Pass": 49537,
+    "One Day Pass": 39736
+  },
+  "bike_type": {
+    "Electric": 266270,
+    "Standard": 252965
+  },
+  "duration_median_min": 15.0,
+  "stations_net_negative": 140
+}

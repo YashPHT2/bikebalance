@@ -1,0 +1,68 @@
+﻿cap15_B10    none     coverage 0.8304 unmet  11976 moved      0
+cap15_B10    HA       coverage 0.9371 unmet   4443 moved   8976
+cap15_B10    forecast coverage 0.9430 unmet   4025 moved   8223
+cap15_B10    oracle   coverage 0.9252 unmet   5278 moved   9807
+cap15_B25    none     coverage 0.8304 unmet  11976 moved      0
+cap15_B25    HA       coverage 0.9604 unmet   2796 moved  12038
+cap15_B25    forecast coverage 0.9624 unmet   2656 moved  10268
+cap15_B25    oracle   coverage 0.9749 unmet   1771 moved  18418
+cap15_B50    none     coverage 0.8304 unmet  11976 moved      0
+cap15_B50    HA       coverage 0.9621 unmet   2677 moved  12106
+cap15_B50    forecast coverage 0.9634 unmet   2586 moved  10304
+cap15_B50    oracle   coverage 0.9986 unmet     98 moved  22235
+cap25_B10    none     coverage 0.8918 unmet   7640 moved      0
+cap25_B10    HA       coverage 0.9686 unmet   2217 moved   6667
+cap25_B10    forecast coverage 0.9706 unmet   2078 moved   6112
+cap25_B10    oracle   coverage 0.9744 unmet   1807 moved   8223
+cap25_B25    none     coverage 0.8918 unmet   7640 moved      0
+cap25_B25    HA       coverage 0.9755 unmet   1727 moved   7560
+cap25_B25    forecast coverage 0.9760 unmet   1697 moved   6728
+cap25_B25    oracle   coverage 0.9963 unmet    258 moved  12922
+cap25_B50    none     coverage 0.8918 unmet   7640 moved      0
+cap25_B50    HA       coverage 0.9756 unmet   1726 moved   7566
+cap25_B50    forecast coverage 0.9760 unmet   1697 moved   6728
+cap25_B50    oracle   coverage 0.9999 unmet      9 moved  13709
+     scenario    policy  demand  served  unmet  bikes_moved       bike_km  blocked_returns  mean_empty_stations  coverage  coverage_peak  coverage_offpeak  unmet_per_bike_moved
+0   cap15_B10        HA   70604   66161   4443         8976  13535.198858             8800            15.933060  0.937072       0.920603          0.952407                   NaN
+1   cap15_B10  forecast   70604   66579   4025         8223  12603.418072             8790            14.338115  0.942992       0.927652          0.957276                   NaN
+2   cap15_B10      none   70604   58628  11976            0      0.000000             6942            25.739071  0.830378       0.808806          0.850465                   NaN
+3   cap15_B10    oracle   70604   65326   5278         9807  11860.952482             8728            43.101093  0.925245       0.898925          0.949754                   NaN
+4   cap15_B25        HA   70604   67808   2796        12038  17274.866614             9050            13.285519  0.960399       0.953766          0.966575                   NaN
+5   cap15_B25  forecast   70604   67948   2656        10268  14583.422158             8934            12.756148  0.962382       0.955558          0.968736                   NaN
+6   cap15_B25      none   70604   58628  11976            0      0.000000             6942            25.739071  0.830378       0.808806          0.850465                   NaN
+7   cap15_B25    oracle   70604   68833   1771        18418  23618.774085             9312            43.821721  0.974916       0.961021          0.987856                   NaN
+8   cap15_B50        HA   70604   67927   2677        12106  16758.277984             9043            13.083333  0.962084       0.956527          0.967259                   NaN
+9   cap15_B50  forecast   70604   68018   2586        10304  14383.564903             8960            12.713798  0.963373       0.957291          0.969037                   NaN
+10  cap15_B50      none   70604   58628  11976            0      0.000000             6942            25.739071  0.830378       0.808806          0.850465                   NaN
+11  cap15_B50    oracle   70604   70506     98        22235  27259.281469             9513            41.588798  0.998612       0.997621          0.999535                   NaN
+12  cap25_B10        HA   70604   68387   2217         6667   5453.589936             7669             6.321038  0.968600       0.961080          0.975602                   NaN
+13  cap25_B10  forecast   70604   68526   2078         6112   5116.064349             7596             5.536202  0.970568       0.963342          0.977298                   NaN
+14  cap25_B10      none   70604   62964   7640            0      0.000000             6478            14.207650  0.891791       0.877717          0.904896                   NaN
+15  cap25_B10    oracle   70604   68797   1807         8223   5834.352667             7727            20.366803  0.974407       0.962078          0.985886                   NaN
+16  cap25_B25        HA   70604   68877   1727         7560   6023.200050             7739             5.575820  0.975540       0.971478          0.979322                   NaN
+17  cap25_B25  forecast   70604   68907   1697         6728   5517.598082             7659             5.450820  0.975965       0.971713          0.979923                   NaN
+18  cap25_B25      none   70604   62964   7640            0      0.000000             6478            14.207650  0.891791       0.877717          0.904896                   NaN
+19  cap25_B25    oracle   70604   70346    258        12922   8663.154906             7995            20.427596  0.996346       0.993920          0.998605                   NaN
+20  cap25_B50        HA   70604   68878   1726         7566   6039.815313             7738             5.569672  0.975554       0.971507          0.979322                   NaN
+21  cap25_B50  forecast   70604   68907   1697         6728   5517.598082             7659             5.450820  0.975965       0.971713          0.979923                   NaN
+22  cap25_B50      none   70604   62964   7640            0      0.000000             6478            14.207650  0.891791       0.877717          0.904896                   NaN
+23  cap25_B50    oracle   70604   70595      9        13709   9178.994621             8053            20.191257  0.999873       0.999736          1.000000                   NaN
+                                    0          1          2          3          4          5
+scenario                    cap15_B10  cap15_B25  cap15_B50  cap25_B10  cap25_B25  cap25_B50
+cap                                15         15         15         25         25         25
+budget                             10         25         50         10         25         50
+unmet_none                      11976      11976      11976       7640       7640       7640
+unmet_HA                         4443       2796       2677       2217       1727       1726
+unmet_forecast                   4025       2656       2586       2078       1697       1697
+unmet_oracle                     5278       1771         98       1807        258          9
+H3_unmet_reduction_vs_HA          418        140         91        139         30         29
+H3_unmet_reduction_pct       9.408058   5.007153   3.399328   6.269734   1.737116   1.680185
+H3_days_better                     44         33         34         34         30         30
+H3_days_worse                      14         24         25         23         29         29
+H3_wilcoxon_p                0.000002   0.020706   0.104215   0.017901   0.329271   0.343033
+H7_gain_peak_pp               0.70497    0.17918   0.076372   0.226178   0.023499   0.020562
+H7_gain_offpeak_pp           0.486871   0.216083    0.17779   0.169584   0.060175   0.060175
+H7_gain_vs_none_peak_pp      11.88462  14.675126  14.848431   8.562449   9.399601   9.399601
+H7_gain_vs_none_offpeak_pp  10.681072  11.827133  11.857221   7.240153   7.502735   7.502735
+H7_days_peak_gain_larger           37         31         30         34         33         33
+H7_wilcoxon_p                0.033949   0.344563   0.524342   0.088334   0.384237   0.381357
